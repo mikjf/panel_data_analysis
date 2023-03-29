@@ -12,9 +12,7 @@ When working with datasets, it is always important to properly understand the da
 * [X](http_requests.ipynb)
 
 ### Data
-* [panel_data_guns_violence_US](X)
-* [panel_data_equipment_failure_data_1](X)
-* [panel_data_equipment_failure_data_2](X)
+* [panel_data_guns_violence_US](https://raw.githubusercontent.com/ex-pr/Dataset/main/guns.csv)
 
 ### Sources
 * [Assigning Panel Data to Training, Testing and Validation Groups for Machine Learning Models](https://towardsdatascience.com/assigning-panel-data-to-training-testing-and-validation-groups-for-machine-learning-models-7017350ab86e)
