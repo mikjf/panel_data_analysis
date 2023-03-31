@@ -8,8 +8,7 @@
 When working with datasets, it is always important to properly understand the data we are tackling. Cross-sectional data, time series data, panel data, pooled time series data, there are just so many. I therefore decided to research some articles specifically related to panel data to get to know this type of data better. The final goal is to create and adapt a theoretical walkthrough based on the existing resources found on the internet.
 
 ### Notebooks
-* [X](json_theory.ipynb)
-* [X](http_requests.ipynb)
+* [nielsen_and_panel_data](nielsen_and_panel_data.ipynb)
 
 ### Data
 * [panel_data_guns_violence_US](https://raw.githubusercontent.com/ex-pr/Dataset/main/guns.csv)
