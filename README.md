@@ -2,7 +2,7 @@
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Objective
 When working with datasets, it is always important to properly understand the data we are tackling. Cross-sectional data, time series data, panel data, pooled time series data, there are just so many. I therefore decided to research some articles specifically related to panel data to get to know this type of data better. The final goal is to create and adapt a theoretical walkthrough based on the existing resources found on the internet.
